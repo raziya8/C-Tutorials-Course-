@@ -10,7 +10,7 @@ int Dividend , Divisior , Quotient , Reminder ;
   // computer
   Quotient = Dividend /Divisior ;
   // compute reminder
-  Reminder = Dividend % Divisior ; 
+% Divisior ; 
   printf("Quotient = %d\n", Quotient);
   printf("Reminder = %d\n", Reminder);
 
